@@ -16,7 +16,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30"><path style="opacity:1;fill:#000;fill-opacity:1;stroke:none;stroke-width:.49999997;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M5 8a2 2 0 0 0-2 2v12c0 1.1.9 2 2 2h12a2 2 0 0 0 2-2v-4.4l8 6.4V8l-8 6.4V10a2 2 0 0 0-2-2H5z"/></svg>
                 </li>
                 <li class="md:ml-6">
-                    <a href="#" class="hover:text-gray-300">Peliculas</a>
+                    <a href="{{ route('movies.index')}}" class="hover:text-gray-300">Peliculas</a>
                 </li>
                 <li class="md:ml-6">
                     <a href="#" class="hover:text-gray-300">Series</a>
