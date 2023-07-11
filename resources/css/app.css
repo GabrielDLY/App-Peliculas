@@ -4,6 +4,6 @@
 
 @tailwind utilities;
 
-#logo1 img{
-    width: 75px;    
+.spinner{
+    position: absolute;
 }
